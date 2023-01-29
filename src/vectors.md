@@ -26,3 +26,9 @@ What is the $x$ value of the blue point?
   To get its $x$ value, read across the horizontal.
 
   * Okay :b
+
+If a point has $x = 2$ and $y = 3$,
+we can write that the point is at $(2,3)$,
+or $\[\begin{smallmatrix}1\\\2\end{smallmatrix}]$.
+But these are mathematicians' notations,
+and we will instead write that the point is at `[2,3]`.
