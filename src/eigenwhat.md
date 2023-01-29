@@ -1,5 +1,6 @@
 ---
-type: 'course'
+type: course
+id: C-a63ebf065d
 ---
 
 # Eigenwhat?
