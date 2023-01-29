@@ -5,7 +5,7 @@ courseId: C-a63ebf065d
 
 # What is a vector?
 
-* Start chapter :b
+* Start chapter :b{#bbhp9}
 
 In school, you learned how to plot points on "math paper".
 Here are two example points:
@@ -25,7 +25,7 @@ What is the $x$ value of the blue point?
   No, that's actually the blue point's $y$ value.
   To get its $x$ value, read across the horizontal.
 
-  * Okay :b
+  * Okay :b{#syovo}
 
 If a point has $x = 2$ and $y = 3$,
 we can write that the point is at $(2,3)$,
