@@ -28,7 +28,42 @@ What is the $x$ value of the blue point?
   * Okay :b{#syovo}
 
 If a point has $x = 2$ and $y = 3$,
-we can write that the point is at $(2,3)$,
+a mathematician might write that the point is at $(2,3)$,
 or $[\begin{smallmatrix}2\\3\end{smallmatrix}]$.
-But these are mathematicians' notations,
-and we will instead write that the point is at `[2,3]`.
+But we will write the point in Python notation: `[2,3]`.
+We call this object `[2,3]` a **vector.**
+
+Saying `p = [2,3]` is nicer than saying `px = 2` and `py = 3`.
+Everything about the point is packaged in one object,
+and we don't have to make up names like `x` and `y`.
+
+So far, we've been describing 2D space.
+The kind of space that old arcade games use.
+But now imagine a 3D space, like the one you live in.
+We usually imagine the lines $x$ and $y$ as before,
+plus a new line called $z$,
+which is perpendicular to the $x$ and $y$ lines.
+Imagine a point $q$ in space which has $x = 5$, $y = 2$, and $z = 8$.
+How would we write this point in vector notation?
+:buttons{#ruupf}
+
+* `[8,2,5]` :b{#hpd1t .correct}
+
+  Right, we're writing the vector in the order `[x,y,z]`.
+
+* `[5,2,8]` :b{#dflru}
+
+  You're not exactly wrong!
+  Normally, we would write the vector in the order `[x,y,z]`.
+  But this is just a convention,
+  and we certainly could write it as `[z,x,y]`, as you did.
+  Let's continue with the order `[x,y,z]`.
+
+Consider the point `[1,0,1,0,1]`.
+It "lives" in some space.
+How many dimensions does that space have?
+:buttons{#lqzpm}
+
+* 1 dimension :b{#qmmun .incorrect}
+* 3 dimensions :b{#pb1fj .incorrect}
+* 5 dimensions :b{#m2mah .correct}
