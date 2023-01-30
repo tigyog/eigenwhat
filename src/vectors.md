@@ -1,6 +1,5 @@
 ---
 id: L-d2e0e5ae0b
-courseId: C-a63ebf065d
 ---
 
 # What is a vector?
