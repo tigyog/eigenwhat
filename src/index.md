@@ -1,6 +1,7 @@
 ---
 type: course
 id: C-a63ebf065d
+slug: eigenwhat
 ---
 
 # Eigenwhat?
@@ -14,7 +15,7 @@ This course quickly gets you up to speed with the minimum you need to be product
 The only prerequisite is that you’re comfortable coding.
 I emphasize Python code like `[1,2]` instead of math squiggles like $[\begin{smallmatrix}1\\2\end{smallmatrix}]$.
 
-:::chapterlink{#L-d2e0e5ae0b}
+:::chapterlink{path=./vectors.md}
 # What is a vector?
 :::
 
