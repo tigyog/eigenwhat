@@ -21,7 +21,7 @@ I emphasize Python code like `[1,2]` instead of math squiggles like $[\begin{sma
 I emphasize intuition over proof.
 I motivate each concept with machine-learning examples.
 
-:::chapterlink{path=./vectors.md}
+:::chapterlink{path="./vectors.md"}
 # Vectors
 
 In this chapter, we'll see the equivalence of three things:

@@ -71,8 +71,8 @@ Mathematicians call this space $\R^5$.
 (Don't take the "to the power of 5" too seriously -- it's just notation.)
 
 Which of these vectors lives in $\R^1$?
-:buttons
+:buttons{#rbqr6}
 
-* `1`
-* `[1]`
-* `[1,1]`
+* `1` :b{#rz4k1}
+* `[1]` :b{#vue2w}
+* `[1,1]` :b{#dzxk2}
