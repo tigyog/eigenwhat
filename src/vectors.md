@@ -66,3 +66,13 @@ How many dimensions does that space have?
 * 1 dimension :b{#qmmun .incorrect}
 * 3 dimensions :b{#pb1fj .incorrect}
 * 5 dimensions :b{#m2mah .correct}
+
+Mathematicians call this space $\R^5$.
+(Don't take the "to the power of 5" too seriously -- it's just notation.)
+
+Which of these vectors lives in $\R^1$?
+:buttons
+
+* `1`
+* `[1]`
+* `[1,1]`

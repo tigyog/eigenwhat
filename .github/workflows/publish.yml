@@ -15,4 +15,8 @@ jobs:
       - run: tigyog login "${TY_SESSION}"
         env:
           TY_SESSION: ${{ secrets.TY_SESSION }}
+      - run: tigyog fmt src
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: tigyog fmt
       - run: tigyog publish src
