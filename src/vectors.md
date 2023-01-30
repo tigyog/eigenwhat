@@ -47,11 +47,11 @@ Imagine a point $q$ in space which has $x = 5$, $y = 2$, and $z = 8$.
 How would we write this point in vector notation?
 :buttons{#ruupf}
 
-* `[8,2,5]` :b{#hpd1t .correct}
+* `[5,2,8]` :b{#hpd1t .correct}
 
   Right, we're writing the vector in the order `[x,y,z]`.
 
-* `[5,2,8]` :b{#dflru}
+* `[8,2,5]` :b{#dflru}
 
   You're not exactly wrong!
   Normally, we would write the vector in the order `[x,y,z]`.
