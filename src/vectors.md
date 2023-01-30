@@ -10,7 +10,7 @@ courseId: C-a63ebf065d
 In school, you learned how to plot points on "math paper".
 Here are two example points:
 
-TODO
+![Two points](./images/two_points.svg)
 
 We call the horizontal line $x$ and the vertical line $y$.
 We draw a number line on each of them.
@@ -20,7 +20,7 @@ What is the $x$ value of the blue point?
 :buttons{#dlg5n}
 
 * $3$ :b{#ye00u .correct}
-* $4$ :b{#b8q8b .incorrect}
+* $2$ :b{#b8q8b .incorrect}
 
   No, that's actually the blue point's $y$ value.
   To get its $x$ value, read across the horizontal.
