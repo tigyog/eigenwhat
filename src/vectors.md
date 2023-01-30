@@ -2,7 +2,7 @@
 id: L-d2e0e5ae0b
 ---
 
-# What is a vector?
+# Vectors
 
 * Start chapter :b{#bbhp9}
 
