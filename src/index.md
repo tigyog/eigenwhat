@@ -29,7 +29,7 @@ arrays of numbers, points in space, and arrows.
 You'll implement "scalar multiplication" in Python.
 :::
 
-:::chapterlink
+:::chapterlink{path="./matrices.md"}
 # Matrices
 
 In this chapter, we'll see how to transform vectors:
