@@ -2,6 +2,7 @@
 type: course
 id: C-a63ebf065d
 slug: eigenwhat
+priceUsdDollars: 5
 ---
 
 # Eigenwhat?
@@ -20,6 +21,10 @@ The only prerequisite is that you’re comfortable coding with numbers and array
 I emphasize Python code like `[1,2]` instead of math squiggles like $[\begin{smallmatrix}1\\2\end{smallmatrix}]$.
 I emphasize intuition over proof.
 I motivate each concept with machine-learning examples.
+
+::buy[Eigenvalue: $5]
+
+## What's in the course?
 
 :::chapterlink{path="./vectors.md"}
 # Vectors
