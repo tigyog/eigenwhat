@@ -76,3 +76,11 @@ Which of these vectors lives in $\R^1$?
 * `1` :b{#rz4k1}
 * `[1]` :b{#vue2w}
 * `[1,1]` :b{#dzxk2}
+
+Now it's your chance to implement "vector-scalar multiplication".
+Here's a Python shell for you to use:
+
+:::iframe{url="https://tigyog-iframe-example-python-repl.glitch.me/"}
+    print(42)
+    print(43)
+:::
