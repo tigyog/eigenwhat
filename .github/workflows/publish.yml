@@ -7,6 +7,12 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
+      - env:
+          TY_SESSION: ${{ secrets.TY_SESSION }}
+        if: ${{ env.TY_SESSION == '' }}
+        run: |
+          echo "You need to set secret TY_SESSION to your TigYog session token; see https://github.com/tigyog/tigyog-cli"
+          exit 1
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
         with:
