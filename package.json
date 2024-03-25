@@ -6,5 +6,8 @@
   "scripts": {
     "fmt": "tigyog fmt src",
     "publish": "tigyog publish src"
+  },
+  "devDependencies": {
+    "tigyog-cli": "^0.13.2"
   }
 }
