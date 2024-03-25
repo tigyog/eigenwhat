@@ -27,7 +27,7 @@ What is the $x$ value of the blue point?
   * Okay :b{#syovo}
 
 If a point has $x = 2$ and $y = 3$,
-a mathematician might write that the point is at $(2,3)$,
+a mathematician might write that the point is $(2,3)$,
 or $[\begin{smallmatrix}2\\3\end{smallmatrix}]$.
 But we will write the point in Python notation: `[2,3]`.
 We call this object `[2,3]` a **vector.**
