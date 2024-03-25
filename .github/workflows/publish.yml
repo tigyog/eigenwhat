@@ -17,12 +17,12 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: '18'
-      - run: npm install -g tigyog-cli
-      - run: tigyog login "${TY_SESSION}"
+      - run: npm i
+      - run: npx tigyog login "${TY_SESSION}"
         env:
           TY_SESSION: ${{ secrets.TY_SESSION }}
-      - run: tigyog fmt src
+      - run: npm run fmt
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: tigyog fmt
-      - run: tigyog publish src
+      - run: npm run publish
