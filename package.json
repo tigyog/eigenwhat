@@ -1,0 +1,10 @@
+{
+  "name": "eigenwhat",
+  "version": "0.0.1",
+  "description": "'Eigenwhat?', an interactive course at https://eigenwhat.tigyog.app",
+  "author": "Jim Fisher",
+  "scripts": {
+    "fmt": "tigyog fmt src",
+    "publish": "tigyog publish src"
+  }
+}
